@@ -6,4 +6,3 @@ An admin hub is present, through which admin can add new teachers and even chang
 The complete website is very user as well as mobile/tablet freindly, i.e it is optimised for best appearance in small devices, just because students generally browse through mobile/tablet devices.<br>
 Teachers also have a print facility available in case they want to display the records on a notice board.<br>
 Initially developed in Visual Studio Community 2019.<br>
-<b>Important for Developers-</b> Proper changes to Connection String and Database for subjects, is needed in order to make this work in your system accordingly.
